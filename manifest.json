@@ -1,0 +1,23 @@
+{
+  "name": "Fogarty Center Name Draw",
+  "short_name": "Fogarty Draw",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "description": "The Fogarty Center branded name draw app with spreadsheet import and presenter mode.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "fogarty_logo.png",
+      "sizes": "320x168",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

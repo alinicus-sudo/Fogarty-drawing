@@ -1,3 +1,3 @@
-Fogarty Center Triple Name Draw
+Fogarty Center Triple Name Draw v8
 
-This version supports 3 separate drawings with independent names and winner history.
+Fixed JavaScript button issue. Cleaned drawing tabs and duplicate logo. Three independent drawings remain.

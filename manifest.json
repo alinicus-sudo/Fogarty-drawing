@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
-  "description": "The Fogarty Center branded name draw app with spreadsheet import and presenter mode.",
+  "description": "Fogarty Center branded name drawing app with embedded logo, spreadsheet import, and presenter mode.",
   "icons": [
     {
       "src": "icon.svg",
